@@ -6,5 +6,5 @@ Population dynamics for rabbits and foxes
 Lotka-Volterra model for predator-prey relationships could be described as following diff equation system:
 
 ```
-dN_{prey}/dt = R_{prey,o}N_{prey}(t) - \{lamda}N_{prey}(t)N_{pred}(t)
+$$dN_{prey}/dt = R_{prey,o}N_{prey}(t) - \{lamda}N_{prey}(t)N_{pred}(t)$$
 ```
