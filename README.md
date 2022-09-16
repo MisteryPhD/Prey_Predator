@@ -12,6 +12,10 @@ $$dN_{pred}/dt = eγN_{prey}N_{pred}(t) - R_{pred.,o}(t)N_{pred}(t)$$
 
 The next parameters are considered:
 
-```
-$R_{o,prey}=0.04$
-```
+$$R_{o,prey}=0.04$$
+
+$$R_{o,pred}=0.2$$
+
+γ = 0.0005
+
+e = 0.1
