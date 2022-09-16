@@ -1,2 +1,4 @@
 # Prey_Predator
-Population dynamics for rabbits and foxes (Lotka-Volterra model)
+Population dynamics for rabbits and foxes
+
+## (a) A simple Lotka-Volterra Model
