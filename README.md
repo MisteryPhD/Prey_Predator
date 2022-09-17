@@ -23,4 +23,4 @@ $$e = 0.1$$
 Assume that the time units are all in days, and that the populations are numbers of individuals per square kilometer. Conssider, what is the doubling time of rabbits without predation, and the death rate of foxes? Explain whether or not these values are biologically reasonable. Explain the meaning of the terms γ and e and consider their values — do these make sense (consider what conditions will lead to a balance of growth/death in each population)? 
 System simulated using the Forward Euler:
 
-$$x(t+Δt)=x(t)+dx/dt(Δt),   y(t+Δt)=y(t)+dy/dt(Δt)$$
+$x(t+Δt)=x(t)+dx/dt(Δt),   y(t+Δt)=y(t)+dy/dt(Δt)$
