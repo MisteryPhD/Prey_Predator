@@ -1,6 +1,8 @@
 # Prey_Predator
 Population dynamics for rabbits and foxes: a classical problem described in terms of prey and predator using Lotka-Volterra model variations.
 
+The MATLAB code and the report (*.pdf file) uploaded here, on github.
+
 ## (a) A simple Lotka-Volterra Model
 
 Lotka-Volterra model for predator-prey relationships could be described as following diff equation system:
