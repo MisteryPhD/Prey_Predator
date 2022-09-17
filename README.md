@@ -25,3 +25,6 @@ Assumed that the time units are all in days, and that the populations are number
 System simulated using the Forward Euler:
 
 $x(t+Δt)=x(t)+dx/dt(Δt)$  and  $y(t+Δt)=y(t)+dy/dt(Δt)$
+
+Using initial populations of 200 rabbits and 50 foxes per $km^2$, and a time step of 0.01 days, determine how the rabbit and fox populations will vary over one year. Plot the two populations versus time on the same graph, as well as versus each other (on another graph). In the latter plot use the quiver function to add velocity arrows to the plot (use a lighter color such as gray for this). Discuss the observed behavior of the populations. What is the range in each population? 
+Repeat your calculations with initial populations of 5000 rabbits and 100 foxes per km2, and discuss how the behavior of the system changes. Do the same for 4000 rabits and 80 foxes per km2. What does this result tell you about the system?
